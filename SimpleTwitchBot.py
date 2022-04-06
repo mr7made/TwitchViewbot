@@ -3,7 +3,7 @@ import concurrent.futures, time, random, os
 #desired channel url
 channel_url = 'https://www.twitch.tv/yourchannelname'
 #number of viewer bots
-botcount = 10
+botcount = 7
 #path to proxies.txt file
 proxypath = "C:\Proxy\proxy.txt"
 #path to vlc
